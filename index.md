@@ -1,5 +1,3 @@
-# Benjamin J Singer
-
 I'm Ben, a postdoctoral researcher in [Joe Lewnard's research group](https://joelewnard.github.io/joelewnard/) in the School of Public Health at the University of California, Berkeley. My interests are in mathematical and computational modelling of infectious diseases. I have a particular eye towards work with applications improving pandemic preparedness and global health equity. I'm currently attached to the C-CORE center of Insight Net, the CDC Center for Forecasting and Outbreak Analytics' project to improve outbreak response through collaboration between analytic experts and government.
 
 ## Current projects
