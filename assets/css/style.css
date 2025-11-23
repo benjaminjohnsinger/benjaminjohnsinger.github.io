@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+/* Change page font */
 body {
-  font-family: Palatino;
+  font-family: 'Palatino', serif;
+}
+
+/* Change title color and font */
+.site-title {
+  color: #7FA742;      /* Olive green example */
+  font-family: 'Futura', sans-serif;
 }
