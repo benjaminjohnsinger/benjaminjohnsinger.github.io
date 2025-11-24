@@ -6,7 +6,7 @@ I'm Ben, a postdoctoral researcher in [Joe Lewnard's research group](https://joe
 ![A figure illustrating the relationship between viral dynamic parameters and post-COVID-19 re-emergence behaviour.](assets/img/parameter_sets_R0_immunity1_combi_2d.png)
 
 - Examining data on respiratory virus testing for signatures of viral interaction
-![A figure showing odds ratios between different viral infections, adjusting for bias.](assets/img/viral_interference_heatmap_wMbias_full_small.png)
+![A figure showing odds ratios between different viral infections, adjusting for bias.](assets/img/viral_interference_heatmap_wMbias_fluABEV.png)
 
 - Characterizing the relationship between antibiotic consumption and resistance
 ![A figure showing the number of preventable deaths through reductions in antibiotic consumption for different pathogens.](assets/img/10pc_avertable_attributable_burden_by_pathogen_joelike_weighted_w_GASP.png)
