@@ -40,25 +40,25 @@ Ferretti L, Di Nardo A, **Singer BJ**, Lasecka-Dykes L, Logan G, Wright CF, Pé
 2013-2017,	University of Oxford 
 - Project on Bias in the map from grammars to languages
 
-### Research Experience
+### Research experience
 
 ##### School of Public Health, University of California, Berkeley
-Aug 2024–present, Postdoctoral Research with supervisor Joseph Lewnard
+Aug 2024–present, Postdoctoral research with supervisor Joseph Lewnard
 
 ##### Department of Medicine, Stanford University
-Jul 2023–Aug 2024,	Postdoctoral Research with supervisor Nathan Lo
+Jul 2023–Aug 2024,	Postdoctoral research with supervisor Nathan Lo
 - Modelled epidemiology of schistosomiasis and pertussis
 - Worked with CDPH and WHO to develop policy-relevant research
 - Assisted with grant preparation
 
 ##### Department of Medicine, University of California, San Francisco
-Jan 2022–Jun 2023, Postdoctoral Research with supervisor Nathan Lo
+Jan 2022–Jun 2023, Postdoctoral research with supervisor Nathan Lo
 - Developed machine learning models to predict schistosomiasis hotspots
 - Modelled epidemiology of schistosomiasis, COVID-19, and hepatitis E
 - Mentored research students and assisted with grant preparation
 
 ##### Department of Zoology, University of Oxford
-Sep 2017–Mar 2022,	DPhil Research with supervisors Michael Bonsall and Robin Thompson
+Sep 2017–Mar 2022, Doctoral research with supervisors Michael Bonsall and Robin Thompson
 - Investigated the effects of travel and cross-immunity on pandemic risk
 - Modelled optimal spatial allocation of vaccines
 - Developed a novel epidemiological metapopulation model
@@ -70,34 +70,34 @@ Apr–Jun 2020, Internship with manager Jasdeep Sandhu
 - Participated in discussions with Dr Sandhu and the department’s Chief Scientific Advisor Charlotte Watts on the use of mathematical modelling for development work
 
 ##### Department of Statistics, University of Oxford
-Jan–Apr 2018, Rotation Project with supervisors Luca Ferretti and Jotun Hein
+Jan–Apr 2018, Rotation project with supervisors Luca Ferretti and Jotun Hein
 - Worked on approaches to recombination in phylogeographic analyses
 - Developed skills in phylogeography and phylodynamics, statistics, and R
 
 ##### Department of Physics, University of Oxford
-Oct 2016–Jun 2017, Master’s Project with supervisor Ard Louis
+Oct 2016–Jun 2017, Master’s project with supervisor Ard Louis
 
 ##### Okinawa Institute of Science and Technology
-Jul–Aug 2015, Research Internship with supervisor Ichiro Maruyama
+Jul–Aug 2015, Research internship with supervisor Ichiro Maruyama
 
-### Selected Teaching Experience
-##### Statistics for First Year Biochemistry
+### Selected teaching experience
+##### Statistics for first year Biochemistry
 2018-2020, University of Oxford
 - Taught a first course in statistics to classes of up to eleven undergraduate students
 - Marked submitted work, taught four hours of classes each year, and wrote reports
 - Gave revision tutorials to students from my class and others
 
-##### Mathematics for First Year Biochemistry
+##### Mathematics for first year Biochemistry
 2018-2019, University of Oxford
 - Taught mathematics to classes of eight undergraduate students
 - Marked submitted work, taught nine hours of classes each year, and wrote reports
 
-##### Biophysics for Third Year Physics
+##### Biophysics for third year Physics
 2018, University of Oxford
 - Gave biophysics tutorials to groups of two to three undergraduate students
 - Marked submitted work, taught eight hours of tutorials, and wrote reports
 
-##### Essential Mathematics for First Year Graduates
+##### Essential mathematics for first year graduate students
 2018, University of Oxford
 - Demonstrated in large-group practicals for the Doctoral Training Centre
 - Marked students’ work and kept track of their progress
