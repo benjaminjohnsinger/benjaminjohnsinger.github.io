@@ -34,11 +34,11 @@ Ferretti L, Di Nardo A, **Singer BJ**, Lasecka-Dykes L, Logan G, Wright CF, Pé
 
 ##### DPhil in Interdisciplinary Bioscience
 2017-2021,	University of Oxford
-Thesis on Metapopulation models of pandemic risk and control
+- Thesis on Metapopulation models of pandemic risk and control
 
 ##### MPhysPhil (Master’s Degree in Physics and Philosophy), 1st Class
 2013-2017,	University of Oxford 
-Project on Bias in the map from grammars to languages
+- Project on Bias in the map from grammars to languages
 
 ### Research Experience
 
