@@ -3,21 +3,27 @@ I'm Ben, a postdoctoral researcher in [Joe Lewnard's research group](https://joe
 ## Current projects
 
 - Understanding respiratory virus dynamics with data from pathogen re-emergence in Southern California
-![[assets/img/parameter_sets_R0_immunity1_combi_2d.png]]
-- Examining data on respiratory virus incidence for signatures of viral interaction
-![[assets/img/viral_interference_heatmap_wMbias_full_small.png]]
+![A figure illustrating the relationship between viral dynamic parameters and post-COVID-19 re-emergence behaviour.](assets/img/parameter_sets_R0_immunity1_combi_2d.png)
+
+- Examining data on respiratory virus testing for signatures of viral interaction
+![A figure showing odds ratios between different viral infections, adjusting for bias.](assets/img/viral_interference_heatmap_wMbias_full_small.png)
+
 - Characterizing the relationship between antibiotic consumption and resistance
-![[assets/img/10pc_avertable_attributable_burden_by_pathogen_joelike_weighted_w_GASP.png]]
+![A figure showing the number of preventable deaths through reductions in antibiotic consumption for different pathogens.](assets/img/10pc_avertable_attributable_burden_by_pathogen_joelike_weighted_w_GASP.png)
+
 - Supporting a range of student projects in the Lewnard group
 
 ## Publications
 
 **Singer BJ**, Gomes M, Coulibaly JT, Daigavane M, Tan ST, Bogoch II, Lo NC. Population level impact of mass drug administration against schistosomiasis with novel anthelmintic drugs targeting juvenile schistosomes: a modelling study. The Lancet Microbe, 6, 101065 (2025). [https://doi.org/10.1016/j.lanmic.2024.101065](https://doi.org/10.1016/j.lanmic.2024.101065)
-![[assets/img/lancet_figure3.png]]
+![Figure 3 from Singer BJ et al. Lancet 2025](assets/img/lancet_figure3.png)
+
 **Singer BJ**, Di Nardo A, Hein J, Ferretti L. Comparing Phylogeographies to Reveal Incompatible Geographical Histories within Genomes. Molecular Biology and Evolution, 41, msae126 (2024). [https://doi.org/10.1093/molbev/msae126](https://doi.org/10.1093/molbev/msae126)
-![[assets/img/MBE_figure1.png]]
+![Figure 1 from Singer BJ et al. MBE 2024](assets/img/MBE_figure1.png])
+
 **Singer BJ**, Coulibaly JT, Park HJ, Bogoch II, Lo NC. Development of prediction models to identify hotspots of schistosomiasis in endemic regions to guide mass drug administration. PNAS, 121, e2315463120 (2024). [https://doi.org/10.1073/pnas.2315463120](https://doi.org/10.1073/pnas.2315463120)
-![[assets/img/pnas.2315463120fig01.jpg]]
+![Figure 1 from Singer BJ et al. PNAS 2024][assets/img/pnas.2315463120fig01.jpg]]
+
 Tan ST, Kwan AT, Rodríguez-Barraquer I, **Singer BJ**, Park HJ, Lewnard JA, Sears D, Lo NC. Infectiousness of SARS-CoV-2 breakthrough infections and reinfections during the Omicron wave. Nature Medicine, 29, 358–365 (2023). [https://doi.org/10.1038/s41591-022-02138-x](https://doi.org/10.1038/s41591-022-02138-x)
 
 **Singer BJ**, Thompson RN, Bonsall MB. Evaluating strategies for spatial allocation of vaccines based on risk and centrality. J. R. Soc. Interface, 19, 20210709 (2022). [https://doi.org/10.1098/rsif.2021.0709](https://doi.org/10.1098/rsif.2021.0709)
