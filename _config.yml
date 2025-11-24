@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: Benjamin J Singer
 logo: assets/img/portrait.jpg
-minima:
-  custom_css:
-    - /assets/css/style.css
+custom_css: /assets/css/style.css
