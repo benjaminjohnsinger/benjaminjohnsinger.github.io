@@ -48,9 +48,6 @@ Project on Bias in the map from grammars to languages
 
 #### School of Public Health, University of California, Berkeley
 Aug 2024–present, Postdoctoral Research with supervisor Joseph Lewnard
-- Infectious disease modelling for pandemic preparedness as part of the CDC CFA Insight Net network, partnering with Kaiser Permanente
-- Performing statistical analysis of antimicrobial resistance data
-- Mentoring research students
 
 #### Department of Medicine, Stanford University
 Jul 2023–Aug 2024,	Postdoctoral Research with supervisor Nathan Lo
@@ -86,14 +83,6 @@ Oct 2016–Jun 2017, Master’s Project with supervisor Ard Louis
 
 #### Okinawa Institute of Science and Technology
 Jul–Aug 2015, Research Internship with supervisor Ichiro Maruyama
-
-### Awards and Funding
-2025		Summer Institute in Statistics and Modeling in Infectious Diseases Scholarship
-2019		Senior Hulme Scholarship from Brasenose College
-2017		BBSRC 4-Year Studentship
-2017		Gibbs Prize (Physics Part C) (best marks in cohort)
-2016		Gibbs Prize (Philosophy Part B) (best marks in cohort)
-2016		Exhibition from Brasenose College (high exam marks)
 
 ### Selected Teaching Experience
 #### Statistics for First Year Biochemistry
