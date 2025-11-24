@@ -33,72 +33,72 @@ Ferretti L, Di Nardo A, **Singer BJ**, Lasecka-Dykes L, Logan G, Wright CF, Pé
 
 ### Education
 
-#### DPhil in Interdisciplinary Bioscience
+##### DPhil in Interdisciplinary Bioscience
 2017-2021,	University of Oxford
 Thesis on Metapopulation models of pandemic risk and control
 
-#### MPhysPhil (Master’s Degree in Physics and Philosophy), 1st Class
+##### MPhysPhil (Master’s Degree in Physics and Philosophy), 1st Class
 2013-2017,	University of Oxford 
 Project on Bias in the map from grammars to languages
 
 ### Research Experience
 
-#### School of Public Health, University of California, Berkeley
+##### School of Public Health, University of California, Berkeley
 Aug 2024–present, Postdoctoral Research with supervisor Joseph Lewnard
 
-#### Department of Medicine, Stanford University
+##### Department of Medicine, Stanford University
 Jul 2023–Aug 2024,	Postdoctoral Research with supervisor Nathan Lo
 - Modelled epidemiology of schistosomiasis and pertussis
 - Worked with CDPH and WHO to develop policy-relevant research
 - Assisted with grant preparation
 
-#### Department of Medicine, University of California, San Francisco
+##### Department of Medicine, University of California, San Francisco
 Jan 2022–Jun 2023, Postdoctoral Research with supervisor Nathan Lo
 - Developed machine learning models to predict schistosomiasis hotspots
 - Modelled epidemiology of schistosomiasis, COVID-19, and hepatitis E
 - Mentored research students and assisted with grant preparation
 
-#### Department of Zoology, University of Oxford
+##### Department of Zoology, University of Oxford
 Sep 2017–Mar 2022,	DPhil Research with supervisors Michael Bonsall and Robin Thompson
 - Investigated the effects of travel and cross-immunity on pandemic risk
 - Modelled optimal spatial allocation of vaccines
 - Developed a novel epidemiological metapopulation model
 
-#### Department for International Development, Government of the UK
+##### Department for International Development, Government of the UK
 Apr–Jun 2020, Internship with manager Jasdeep Sandhu
 - Modelled incentives for distribution of a vaccine for SARS-CoV-2
 - Produced a report on mathematical tools for systems thinking
 - Participated in discussions with Dr Sandhu and the department’s Chief Scientific Advisor Charlotte Watts on the use of mathematical modelling for development work
 
-#### Department of Statistics, University of Oxford
+##### Department of Statistics, University of Oxford
 Jan–Apr 2018, Rotation Project with supervisors Luca Ferretti and Jotun Hein
 - Worked on approaches to recombination in phylogeographic analyses
 - Developed skills in phylogeography and phylodynamics, statistics, and R
 
-#### Department of Physics, University of Oxford
+##### Department of Physics, University of Oxford
 Oct 2016–Jun 2017, Master’s Project with supervisor Ard Louis
 
-#### Okinawa Institute of Science and Technology
+##### Okinawa Institute of Science and Technology
 Jul–Aug 2015, Research Internship with supervisor Ichiro Maruyama
 
 ### Selected Teaching Experience
-#### Statistics for First Year Biochemistry
+##### Statistics for First Year Biochemistry
 2018-2020, University of Oxford
 - Taught a first course in statistics to classes of up to eleven undergraduate students
 - Marked submitted work, taught four hours of classes each year, and wrote reports
 - Gave revision tutorials to students from my class and others
 
-#### Mathematics for First Year Biochemistry
+##### Mathematics for First Year Biochemistry
 2018-2019, University of Oxford
 - Taught mathematics to classes of eight undergraduate students
 - Marked submitted work, taught nine hours of classes each year, and wrote reports
 
-#### Biophysics for Third Year Physics
+##### Biophysics for Third Year Physics
 2018, University of Oxford
 - Gave biophysics tutorials to groups of two to three undergraduate students
 - Marked submitted work, taught eight hours of tutorials, and wrote reports
 
-#### Essential Mathematics for First Year Graduates
+##### Essential Mathematics for First Year Graduates
 2018, University of Oxford
 - Demonstrated in large-group practicals for the Doctoral Training Centre
 - Marked students’ work and kept track of their progress
