@@ -2,10 +2,10 @@ I'm Ben, a postdoctoral researcher in [Joe Lewnard's research group](https://joe
 
 ## Current projects
 
-- Understanding respiratory virus dynamics with data from pathogen re-emergence in Southern California
+- Understanding respiratory virus dynamics with data from the re-emergence of viruses after the COVID-19 pandemic in Southern California
 ![A figure illustrating the relationship between viral dynamic parameters and post-COVID-19 re-emergence behaviour.](assets/img/age_distribution_shift.png)
 
-- Examining data on respiratory virus testing for signatures of viral interaction
+- Investigating different mechanisms of interaction between respiratory viruses
 ![A figure showing odds ratios between different viral infections, adjusting for bias.](assets/img/Interaction_Proof_of_concept.jpg)
 
 - Characterizing the relationship between antibiotic consumption and resistance
