@@ -1,4 +1,4 @@
-I'm Ben, a Research Fellow in the School of Public Health at Imperial College London. My interests are in mathematical and computational modelling of infectious diseases. I have a particular eye towards work with applications improving pandemic preparedness and global health equity.
+I'm Ben, a Research Fellow in the School of Public Health at Imperial College London. I develop mathematical and computational models of infectious diseases to understand more about how they spread and how we can intervene. I have a particular eye towards work with applications improving pandemic preparedness and global health equity.
 
 ## Current projects
 
@@ -8,11 +8,8 @@ I'm Ben, a Research Fellow in the School of Public Health at Imperial College Lo
 - Investigating different mechanisms of interaction between respiratory viruses
 ![A figure showing odds ratios between different viral infections, adjusting for bias.](assets/img/Interaction_Proof_of_concept.jpg)
 
-- Characterizing the relationship between antibiotic consumption and resistance
-
-- Supporting a range of student projects in the Lewnard group
-
 ## Publications
+Parker A, Jenness S, **Singer B**, Chang J, Bruxvoort K, Lewnard J. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. Epidemiology (2026). https://doi.org/10.1097/EDE.0000000000002052
 
 **Singer BJ**, Gomes M, Coulibaly JT, Daigavane M, Tan ST, Bogoch II, Lo NC. Population level impact of mass drug administration against schistosomiasis with novel anthelmintic drugs targeting juvenile schistosomes: a modelling study. The Lancet Microbe, 6, 101065 (2025). [https://doi.org/10.1016/j.lanmic.2024.101065](https://doi.org/10.1016/j.lanmic.2024.101065)
 
@@ -42,8 +39,15 @@ Ferretti L, Di Nardo A, **Singer BJ**, Lasecka-Dykes L, Logan G, Wright CF, Pé
 
 ### Research experience
 
+##### School of Public Health, Imperial College London
+Oct 2026–present, Imperial Research Fellowship
+- Independent research in respiratory virus modelling in collaboration with my mentor Marc Baguelin and the NIHR HPRU in respiratory infections
+
 ##### School of Public Health, University of California, Berkeley
-Aug 2024–present, Postdoctoral research with supervisor Joseph Lewnard
+Aug 2024–Aug 2026, Postdoctoral research with supervisor Joseph Lewnard
+- Infectious disease modelling for pandemic preparedness as part of the CDC CFA Insight Net network, partnering with Kaiser Permanente
+- Performed statistical analysis of bacterial disease data
+- Mentored research students
 
 ##### Department of Medicine, Stanford University
 Jul 2023–Aug 2024,	Postdoctoral research with supervisor Nathan Lo
