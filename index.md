@@ -9,7 +9,7 @@ I'm Ben, a Research Fellow in the School of Public Health at Imperial College Lo
 ![A figure showing odds ratios between different viral infections, adjusting for bias.](assets/img/Interaction_Proof_of_concept.jpg)
 
 ## Publications
-Parker A, Jenness S, **Singer B**, Chang J, Bruxvoort K, Lewnard J. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. Epidemiology (2026). https://doi.org/10.1097/EDE.0000000000002052
+Parker A, Jenness S, **Singer B**, Chang J, Bruxvoort K, Lewnard J. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. Epidemiology (2026). [https://doi.org/10.1097/EDE.0000000000002052](https://doi.org/10.1097/EDE.0000000000002052)
 
 **Singer BJ**, Gomes M, Coulibaly JT, Daigavane M, Tan ST, Bogoch II, Lo NC. Population level impact of mass drug administration against schistosomiasis with novel anthelmintic drugs targeting juvenile schistosomes: a modelling study. The Lancet Microbe, 6, 101065 (2025). [https://doi.org/10.1016/j.lanmic.2024.101065](https://doi.org/10.1016/j.lanmic.2024.101065)
 
