@@ -1,4 +1,4 @@
-I'm Ben, a Research Fellow in the School of Public Health at Imperial College London. I develop mathematical and computational models of infectious diseases to understand more about how they spread and how we can intervene. I have a particular eye towards work with applications improving pandemic preparedness and global health equity.
+I'm Ben, a Research Fellow in the School of Public Health at Imperial College London. I develop mathematical and computational models of infectious diseases to understand more about how they spread and how we can intervene. I use electronic health record and national surveillance data, and I'm interested in incorporating more serological data into my work. I have a particular eye towards work with applications improving pandemic preparedness and global health equity.
 
 ## Current projects
 
